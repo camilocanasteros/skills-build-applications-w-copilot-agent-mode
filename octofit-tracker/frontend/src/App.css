@@ -1,0 +1,21 @@
+.app-container {
+  min-height: 100vh;
+  background: #f4f7fb;
+}
+
+.app-card {
+  margin-bottom: 1.5rem;
+}
+
+.modal-backdrop.show {
+  opacity: 0.5;
+}
+
+.modal.d-block {
+  display: block;
+}
+
+.modal-body pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
